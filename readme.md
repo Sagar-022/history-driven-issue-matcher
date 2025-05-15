@@ -28,7 +28,7 @@ A pipeline for predicting contributors for an issue in an OSS repository. It com
 or
 Or use any IDE/tool of your preference (you might need one to run .py files or work via terminal)
 - Navigate to Data Mining and Dataset folder in the repo "history-driven-issue-matcher"
-- Follow the readme.md in that folder to generate the main dataset dataset.csv
+- Follow the dataset-miner.md in that folder to generate the main dataset dataset.csv
 - Return to the repo root and open main approach.ipynb
 - Execute each cell sequentially (e.g., with Shift+Enter)
 - All .csv files and evaluation results will be generated automatically
